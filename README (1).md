@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 **2nd Year B.Tech CSE Student** passionate about building impactful projects  
+🎓 **3rd Year B.Tech CSE Student** passionate about building impactful projects  
 💻 **Full-Stack Web Developer** exploring modern technologies  
 🧩 **Problem Solver** actively solving DSA challenges on LeetCode & GeeksforGeeks  
 🌱 Currently diving deep into **React, Node.js, and Advanced C++**  
