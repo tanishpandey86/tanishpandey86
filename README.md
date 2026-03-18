@@ -3,10 +3,6 @@
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=600&lines=🎓+B.Tech+CSE+%7C+3rd+Year+%7C+Bhopal;🤖+Machine+Learning+%26+NLP+Builder;🐍+Python+%7C+⚙️+C%2B%2B+%7C+🌐+JavaScript;🚀+Building+Projects+That+Actually+Matter;💡+Always+Learning+%7C+Never+Stopping" width="550" alt="Typing SVG" />
-
-<br/><br/>
 
 <!-- SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/tanishpandey86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
